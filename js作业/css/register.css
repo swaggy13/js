@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+body,html{
+	color:#444;
+	font-size:14px;
+	text-align:center;
+}
+
+a{
+	color:#900;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+	color:#f36;
+}
+
+#container{
+	width:800px;
+    text-align:left;
+	margin:0 auto;
+	clear:both;
+}
+#register{
+	margin:0 20px 0 20px;
+	border:#CCC solid 1px;
+	padding:10px 100px 10px 100px;
+}

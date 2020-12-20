@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+body,html{
+	color:#444;
+	font-size:14px;
+	text-align:center;
+}
+
+a{
+	color:#39F;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+	color:#f36;
+}
+
+#container{
+	width:800px;
+    text-align:center;
+	margin:0 auto;
+	clear:both;
+}
+
